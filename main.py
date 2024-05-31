@@ -1,4 +1,4 @@
-# Use on Raspberry Pi connected to servos and pico.
+# Code for use with read_ser.py and servo.py on the Raspberry Pi
 # Reads gyro numbers from serial connection to pico and feeds the numbers to the servos
 
 import servo
